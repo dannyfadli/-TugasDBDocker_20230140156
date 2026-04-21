@@ -30,25 +30,20 @@ Aplikasi menyediakan fungsionalitas CRUD dasar:
 
 ### 1. Daftar Image Docker
 
-![Docker Images](<img width="1918" height="1022" alt="Cuplikan layar 2026-04-21 145501" src="https://github.com/user-attachments/assets/20b168e0-4d2d-470b-8efb-afed476cbc19" />
-)
+![Docker Images](<img width="1918" height="1022" alt="Cuplikan layar 2026-04-21 145501" src="https://github.com/user-attachments/assets/20b168e0-4d2d-470b-8efb-afed476cbc19" />)
 
 ### 2. Daftar Container Running
 
-![Docker Containers](<img width="1606" height="885" alt="Cuplikan layar 2026-04-21 145530" src="https://github.com/user-attachments/assets/b20ddafc-ed0c-40c6-a798-817c40d6e08c" />
-)
+![Docker Containers](<img width="1606" height="885" alt="Cuplikan layar 2026-04-21 145530" src="https://github.com/user-attachments/assets/b20ddafc-ed0c-40c6-a798-817c40d6e08c" />)
 
 ### 3. Tampilan Web (Lokal)
 
 
-![Web Lokal](<img width="1918" height="1071" alt="Cuplikan layar 2026-04-21 145955" src="https://github.com/user-attachments/assets/f98cd0a9-b6cf-437f-a128-c4f2ce46aa62" />
-
-)
+![Web Lokal](<img width="1918" height="1071" alt="Cuplikan layar 2026-04-21 145955" src="https://github.com/user-attachments/assets/f98cd0a9-b6cf-437f-a128-c4f2ce46aa62" />)
 
 ### 4. Tampilan Web (Image Teman)
 
-![Web Teman](<img width="1917" height="1078" alt="Cuplikan layar 2026-04-21 145735" src="https://github.com/user-attachments/assets/c28b2881-ce49-4987-ade9-92f8d45f1521" />
-)
+![Web Teman](<img width="1917" height="1078" alt="Cuplikan layar 2026-04-21 145735" src="https://github.com/user-attachments/assets/c28b2881-ce49-4987-ade9-92f8d45f1521" />)
 
 ## Cara Menjalankan
 
