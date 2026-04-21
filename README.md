@@ -26,7 +26,7 @@ Aplikasi menyediakan fungsionalitas CRUD dasar:
 * **List User**: Menampilkan data mahasiswa yang tersimpan.
 * **Aksi**: Tombol Edit dan Delete untuk manajemen data.
 
-## 📸 Dokumentasi Screenshot
+## Dokumentasi Screenshot
 
 ### 1. Daftar Image Docker
 
